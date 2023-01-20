@@ -2,7 +2,7 @@
 * @author Trevor Hartman
 * @author Bryan Maus
 *
-* @since version 1.0
+* @since version 1.0.
 *
 */
 
