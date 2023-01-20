@@ -1,8 +1,9 @@
 /**
 * @author Trevor Hartman
 * @author Bryan Maus
+* Date 01/20/2023
 *
-* @since version 1.0.
+* @since version 1.0
 *
 */
 
